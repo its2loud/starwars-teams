@@ -26,7 +26,7 @@ By combining this trick with some tweaks on the custom camera settings tinting t
 
 ## Tint video color
 
-1. Open to the general Teams settings
+1. Open the general Teams settings
     ![](screenshots/03.jpg)
 2. Open the tab **Devices**
     ![](screenshots/04.jpg)
