@@ -30,10 +30,10 @@ By combining this trick with some tweaks on the custom camera settings tinting t
     ![](screenshots/03.jpg)
 2. Open the tab **Devices**
     ![](screenshots/04.jpg)
-3. Uncheck the automatic camera adjustments
+3. Uncheck automatic camera adjustments
 4. Open the camera settings panel
     ![](screenshots/05.jpg)
-5. Uncheck the automatic white balance
+5. Uncheck automatic white balance
 5. Tweak the settings for Hue, Saturation and White Balance for a blue tinted image and adjust Brightness and Contrast so that it fits best to the background
 
 ---
